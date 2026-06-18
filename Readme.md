@@ -3,8 +3,7 @@
 <!--   e.g. <img src="./assets/banner.png" width="100%" /> -->
 <!-- ============================================== -->
 <p align="center">
-  <i>🖼️ Add your banner here — drop the image into <code>assets/banner.png</code> and replace this line with:</i><br/>
-  <code>&lt;img src="./assets/banner.png" width="100%" /&gt;</code>
+  <img src="./assets/banner.png" width="100%" alt="Karthick DevOps Engineer Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Karthick 👋</h1>
