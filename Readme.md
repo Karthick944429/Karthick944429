@@ -1,124 +1,204 @@
-<!-- ============================================== -->
-<!--   BANNER — replace this block with your own banner image once ready -->
-<!--   e.g. <img src="./assets/banner.png" width="100%" /> -->
-<!-- ============================================== -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Karthick DevOps Engineer Banner" />
-</p>
-
-<h1 align="center">Hi, I'm Karthick 👋</h1>
-<h3 align="center">DevOps Engineer | Kubernetes | Cloud | CI/CD | Automation | Observability | Platform Engineering</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=700&lines=Bridging+Development+and+Operations;Automating+everything+that+can+be+automated;Kubernetes+%7C+Azure+%7C+AWS+%7C+GCP;Building+dashboards+that+tell+the+truth+fast" alt="Typing SVG" />
+  <img src="./assets/banner.png" width="100%" alt="Karthick M" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karthick944429&label=Profile%20Views&color=f5a623&style=flat" alt="profile views" />
-  <a href="https://github.com/Karthick944429?tab=followers">
-    <img src="https://img.shields.io/github/followers/Karthick944429?label=Followers&style=flat&color=f5a623" alt="followers" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=900&color=FFD600&center=true&vCenter=true&width=820&lines=Bridging+Development+and+Operations+through+Automation;Building+cloud+infrastructure+that+scales+reliably;Kubernetes+%7C+Azure+%7C+AWS+%7C+GCP;Observability+that+tells+the+truth+fast;GitOps+%7C+Argo+CD+%7C+GitHub+Actions;Infrastructure+as+Code+%7C+Terraform+%7C+Ansible" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🎯 Objective
+## About
 
-With a background in backend development, I focus on building and managing scalable cloud infrastructure, automating CI/CD pipelines, and improving application reliability. I work extensively with **Kubernetes, Docker, Azure, AWS, Jenkins, Terraform**, and modern **monitoring & observability** tooling. My goal is to bridge development and operations through automation, security, and continuous improvement — and I stay curious, constantly exploring new tools (open-source first, managed where it makes sense) to ship more reliable systems for less cost.
+With a background in backend development, I focus on building and managing scalable cloud infrastructure, automating CI/CD pipelines, and improving application reliability. I work extensively with Kubernetes, Docker, Azure, AWS, Jenkins, Terraform, and modern observability tooling. My goal is to bridge development and operations through automation, security, and continuous improvement — open-source first, managed where it makes sense.
 
-<table>
+---
+
+<p align="center">
+  <img src="./assets/caricature-animation.gif" width="100%" alt="Caricature Animation" />
+</p>
+
+---
+
+## What I Do
+
+<table width="100%" border="0">
 <tr>
-<td width="60%" valign="top">
+<td valign="middle" width="60%">
 
-#### 🧩 What I actually do, day to day
-
-- 🐧 **Linux & Shell Scripting** — the foundation under everything else I touch
-- 🐳 **Docker & Jenkins (CI/CD)** — building and hardening pipelines end to end
-- 🔁 **GitHub Workflows (CI) + Argo CD (CD)** — clean separation between integration and delivery
-- ☸️ **Kubernetes at scale** — AKS, EKS, with cost visibility via **Kubecost** and **CAST AI**
-- ☁️ **Multi-cloud** — Azure (primary expertise), AWS, and GCP, plus Hub-and-Spoke network models and cross-cloud peering
-- 📊 **Observability that's actually useful** — Grafana, Prometheus, Loki, Promtail, Jaeger. I write my own PromQL & LogQL to build dashboards that scale up or down based on what the team actually needs, and configure alerting that doesn't cry wolf
-- 🧱 **Microservices and monolithic** systems — comfortable diagnosing both
-- 🔐 **Identity & security** — Azure Entra ID SSO hardening for OSS tools, Nexus repo management done the secure way
-- 🛡️ **CI security tooling** — Hadolint (Dockerfile linting), Trivy (vuln scanning), OWASP checks baked into the pipeline, not bolted on after
-- 🌐 **Edge & networking** — Nginx, Apache, Cloudflare for hosting, Ingress controllers, and Hub-and-Spoke network design in Azure
-- 🏗️ **Infrastructure as Code** — Terraform and Ansible
-- 💰 **Cloud migration & cost optimization** — moving workloads without moving the budget
-- 🤖 **AI-assisted engineering** — I use AI tooling deliberately to move faster across all of the above
-- 💻 **Programming** — Java, Python, Spring Boot
+- I provision and manage scalable cloud infrastructure across Azure, AWS, and GCP — so your systems stay available, your team stays unblocked, and deployments never become emergencies.
+- I build CI/CD pipelines with security baked in at every stage — automated scanning with Hadolint, Trivy, and OWASP means vulnerabilities are caught at build time, not after an incident.
+- I run Kubernetes clusters in production — with Jenkins-driven deployments as the primary delivery mechanism and Argo CD for GitOps workflows where it fits, backed by autoscaling and cost intelligence so the cloud bill never surprises anyone.
+- I wire up full-stack observability from day one — metrics, logs, and distributed traces unified in Grafana so your team sees problems before users do and fixes them with evidence, not guesswork.
+- I turn infrastructure into repeatable, auditable code using Terraform and Ansible — eliminating environment drift, reducing manual handoffs, and making every environment from dev to production genuinely identical.
 
 </td>
-<td width="40%" valign="top" align="center">
-
-<img src="./assets/observer-bot.svg" width="280" alt="A small bot monitoring observability dashboards" />
-
-<sub><i>me, watching the dashboards so prod doesn't have to ask twice</i></sub>
-
+<td valign="middle" width="40%" align="center">
+<img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif" width="100%" alt="DevOps Cloud Native" />
 </td>
 </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack
+## Technology Stack
+
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="16">
+
+<tr>
+<!-- ── CLOUDS ── -->
+<td align="center" valign="top" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD600&height=52&text=CLOUDS&fontColor=000000&fontSize=20&fontAlignY=70&fontAlign=50" width="100%" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp&theme=dark&perline=3" />
+</td>
+
+<!-- ── IaC & AUTOMATION ── -->
+<td align="center" valign="top" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD600&height=52&text=IaC%20%2F%20AUTOMATION&fontColor=000000&fontSize=20&fontAlignY=70&fontAlign=50" width="100%" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=terraform,ansible,bash&theme=dark&perline=3" />
+</td>
+</tr>
+
+<tr>
+<!-- ── CI/CD ── -->
+<td align="center" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD600&height=52&text=CI%2FCD%20TOOLS&fontColor=000000&fontSize=20&fontAlignY=70&fontAlign=50" width="100%" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions&theme=dark&perline=3" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" height="30"/>
+</td>
+
+<!-- ── CONTAINER ORCHESTRATION ── -->
+<td align="center" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD600&height=52&text=CONTAINER%20ORCHESTRATION&fontColor=000000&fontSize=18&fontAlignY=70&fontAlign=50" width="100%" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark&perline=3" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" height="30"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="30"/>
+</td>
+</tr>
+
+<tr>
+<!-- ── REPOSITORY MANAGEMENT ── -->
+<td align="center" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD600&height=52&text=REPOSITORY%20MANAGEMENT&fontColor=000000&fontSize=18&fontAlignY=70&fontAlign=50" width="100%" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,azure,aws,gcp&theme=dark&perline=6" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Nexus%20Repository-1DB954?style=flat-square&logo=sonatype&logoColor=white" height="30"/>
+</td>
+
+<!-- ── OBSERVABILITY ── -->
+<td align="center" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD600&height=52&text=OBSERVABILITY&fontColor=000000&fontSize=20&fontAlignY=70&fontAlign=50" width="100%" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark&perline=3" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" height="30"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Promtail-F46800?style=flat-square&logo=grafana&logoColor=white" height="30"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Jaeger-60D0E4?style=flat-square&logo=jaeger&logoColor=white" height="30"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Dozzle-0d1117?style=flat-square&logo=docker&logoColor=white" height="30"/>
+</td>
+</tr>
+
+<tr>
+<!-- ── SECURITY & DEVSECOPS ── -->
+<td align="center" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD600&height=52&text=SECURITY%20%2F%20DEVSECOPS&fontColor=000000&fontSize=18&fontAlignY=70&fontAlign=50" width="100%" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Hadolint-000000?style=flat-square&logo=docker&logoColor=FFD600" height="34"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white" height="34"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/SonarQube-CB1F27?style=flat-square&logo=sonarqube&logoColor=white" height="34"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" height="34"/>
+</td>
+
+<!-- ── COST MONITORING ── -->
+<td align="center" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD600&height=52&text=COST%20MONITORING&fontColor=000000&fontSize=20&fontAlignY=70&fontAlign=50" width="100%" />
+<br/><br/>
+<img src="https://img.shields.io/badge/CAST%20AI-000000?style=flat-square&logo=castai&logoColor=FFD600" height="34"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/KubeCost%20%2F%20OpenCost-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="34"/>
+</td>
+</tr>
+
+<tr>
+<!-- ── OS ── -->
+<td align="center" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD600&height=52&text=OPERATING%20SYSTEM&fontColor=000000&fontSize=20&fontAlignY=70&fontAlign=50" width="100%" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark&perline=3" />
+</td>
+
+<!-- ── LANGUAGES & DATABASES ── -->
+<td align="center" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD600&height=52&text=LANGUAGES%20%2F%20DATABASES&fontColor=000000&fontSize=18&fontAlignY=70&fontAlign=50" width="100%" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,bash,mongodb,postgres,elasticsearch&theme=dark&perline=7" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Etcd-419EDA?style=flat-square&logo=etcd&logoColor=white" height="30"/>
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+---
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,jenkins,git,github,githubactions,kubernetes,azure,aws,gcp,grafana,prometheus,terraform,ansible,nginx,apache,cloudflare,java,python,spring&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=Karthick944429&theme=dark&hide_border=true&ring=FFD600&fire=FFD600&currStreakLabel=FFD600&background=0D1117&sideLabels=FFD600&dates=888888&stroke=FFD600&border=FFD600" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubecost-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nexus_Repo-1DB954?style=for-the-badge&logo=sonatype&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthick944429&hide_border=true&bg_color=0D1117&title_color=FFD600&text_color=ffffff&icon_color=FFD600&layout=compact&langs_count=8&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Karthick944429&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthick944429&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthick944429&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthick944429&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 👻 Daily Activity — Pac-Man Edition
+## Contribution Activity
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthick944429/Karthick944429/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthick944429/Karthick944429/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Karthick944429/Karthick944429/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Karthick944429/Karthick944429/output/pacman-contribution-graph-dark.svg" />
   </picture>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## Contact
 
 <p align="center">
-  <a href="mailto:REPLACE_WITH_YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:karthickmohan8143@gmail.com">
+    <img src="./assets/email.svg" width="64" height="64" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/karthick-m-9b78aa255">
+    <img src="./assets/linkedin.svg" width="64" height="64" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/REPLACE_WITH_YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_karthick010_">
+    <img src="./assets/instagram.svg" width="64" height="64" alt="Instagram" />
   </a>
 </p>
 
-<p align="center"><i>⚡ Stats, the Pac-Man graph, and the snake all refresh automatically — this page maintains itself.</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD600&height=80&section=footer" width="100%" />
