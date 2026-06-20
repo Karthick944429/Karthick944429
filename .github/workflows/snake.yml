@@ -14,7 +14,7 @@ permissions:
 jobs:
   generate-animations:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
@@ -25,12 +25,10 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Generate Pac-Man SVGs
-        uses: Platane/snk/svg-only@v3
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Karthick944429
-          outputs: |
-            dist/pacman-contribution-graph.svg?type=pacman
-            dist/pacman-contribution-graph-dark.svg?type=pacman&palette=github-dark
+          games: 'pacman'
 
       - name: Push all SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
