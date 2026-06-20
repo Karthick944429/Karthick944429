@@ -22,9 +22,9 @@ With a background in backend development, I focus on building and managing scala
 
 ## What I Do
 
-<table width="100%" border="0">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td valign="middle" width="60%">
+<td valign="top" width="55%">
 
 - I provision and manage scalable cloud infrastructure across Azure, AWS, and GCP — so your systems stay available, your team stays unblocked, and deployments never become emergencies.
 - I build CI/CD pipelines with security baked in at every stage — automated scanning with Hadolint, Trivy, and OWASP means vulnerabilities are caught at build time, not after an incident.
@@ -33,13 +33,8 @@ With a background in backend development, I focus on building and managing scala
 - I turn infrastructure into repeatable, auditable code using Terraform and Ansible — eliminating environment drift, reducing manual handoffs, and making every environment from dev to production genuinely identical.
 
 </td>
-<td valign="middle" width="40%" align="center">
-<picture>
-  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif"
-       width="100%"
-       style="max-width:400px;min-width:120px;border-radius:12px;display:block;margin:auto;"
-       alt="DevOps Cloud Native" />
-</picture>
+<td valign="middle" width="45%" align="right">
+<img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif" width="100%" alt="DevOps Cloud Native" />
 </td>
 </tr>
 </table>
