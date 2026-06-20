@@ -34,7 +34,12 @@ With a background in backend development, I focus on building and managing scala
 
 </td>
 <td valign="middle" width="40%" align="center">
-<img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif" width="100%" alt="DevOps Cloud Native" />
+<picture>
+  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif"
+       width="100%"
+       style="max-width:400px;min-width:120px;border-radius:12px;display:block;margin:auto;"
+       alt="DevOps Cloud Native" />
+</picture>
 </td>
 </tr>
 </table>
